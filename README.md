@@ -11,3 +11,19 @@
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
+
+<h2 align="center">IDE</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
+  </a>
+</p>
+
+<h2 align="center"></h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+
