@@ -15,11 +15,11 @@
 <h2 align="center">IDE</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,vscode" />
   </a>
 </p>
 
-<h2 align="center"></h2>
+<h2 align="center">Version Controll</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github" />
