@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Hanhojjung&fontSize=90&align=center)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=160&section=header&text=Hanhojjung&fontSize=70&align=center)
 
 <h2 align="center">Main skills</h2>
 <p align="center">
