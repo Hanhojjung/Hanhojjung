@@ -1,4 +1,7 @@
 <div align="center">
+<img src="https://img.shields.io/badge/경력-2023.10.04~-fab2ac?style=flat&logo=&logoColor=white" />
+
+<div align="center">
   <h2>🔗Portfolio</h2>
   <p>
     <a href="https://Hanhojjung.github.io">https://Hanhojjung.github.io</a>
@@ -30,7 +33,7 @@
 <h2 align="center">Version Controll</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github,git" />
   </a>
 </p>
 
